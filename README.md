@@ -25,7 +25,7 @@ The dashboard is designed to facilitate detailed statistical exploration and ans
 Component	        Tool / Language	                              Purpose
 Data Visualization	Power BI Desktop	                      Used for creating all interactive charts, metrics, and the overall dashboard layout.
 Data Manipulation	DAX (Data Analysis Expressions)	              Essential for calculating derived metrics such as adjusted averages, strike rate differentials, and cumulative scores.
-Data Source	  	Kohli ODI T20 Stats                           The source data containing detailed innings-by-innings stats for the player.
+Data Source	  	    Kohli ODI T20 Stats.csv                           The source data containing detailed innings-by-innings stats for the player.
 Styling	                Sporty & High-Contrast Theme	              Utilizes a professional, high-contrast theme suitable for dynamic statistical reporting.
 		
 How to View the Dashboard

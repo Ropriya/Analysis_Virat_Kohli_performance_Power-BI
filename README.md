@@ -3,6 +3,7 @@
 Project Overview
 
 This repository contains an in-depth, interactive data analysis report focusing on the illustrious cricket career of Virat Kohli. Built using Power BI, the dashboard transforms raw match and innings data into compelling visuals, providing an analytical perspective on his performance across different formats, conditions, and opponents.
+
 The attached file, Virat Kohli Stats report. Pbix, is the complete, interactive report and underlying data model.
 
 🎯 Key Analysis & Insights

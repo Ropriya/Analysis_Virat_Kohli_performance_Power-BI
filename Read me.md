@@ -87,7 +87,7 @@ This project is for educational and analytical purposes. All cricket statistics 
 
 **Author**: [Rohit Ranjan / github.com/Ropriya]  
 **Contact**: [linkedin.com/in/contact-rohit-ranjan]  
-**Repository**: [GitHub Repository Link]
+**Repository**: [https://github.com/Ropriya/Analysis_Virat_Kohli_performance_Power-BI]
 
 ---
 ## ⭐ Acknowledgments
